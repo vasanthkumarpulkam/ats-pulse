@@ -7,7 +7,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://mongodb.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ---
 
@@ -180,10 +180,6 @@ If you deploy it, keep crawl intervals conservative and respect each site's `rob
 - [ ] Ashby and Workable adapters
 - [ ] Keyword alerting via email or webhook
 - [ ] Remove committed scaffold artifacts (`.emergent/`, `.gitconfig`)
-
-## License
-
-MIT — see [LICENSE](LICENSE).
 
 ## Author
 
