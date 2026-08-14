@@ -179,7 +179,6 @@ If you deploy it, keep crawl intervals conservative and respect each site's `rob
 - [ ] Scheduled background crawls (currently manual trigger)
 - [ ] Ashby and Workable adapters
 - [ ] Keyword alerting via email or webhook
-- [ ] Remove committed scaffold artifacts (`.emergent/`, `.gitconfig`)
 
 ## Author
 
